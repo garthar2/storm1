@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e35039db-eb5c-48fd-9ca1-8280549178f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/avatar.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/received-message/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/received-message/username.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/sent-message/avatar.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/sent-message/username.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/message.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/received-message.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/username.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/received-message-avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/received-message/avatar.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/received-message.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/avatar.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/received-message/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/received-message/avatar.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/components/sent-message.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/sent-message.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/sent-message/avatar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/sent-message/avatar.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598722382767</updated>
-      <workItem from="1598722387576" duration="7996000" />
+      <workItem from="1598722387576" duration="13923000" />
     </task>
     <task id="LOCAL-00001" summary="29.">
       <created>1598722956300</created>
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598725855227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="29.">
+      <created>1598731340298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598731340298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,10 +103,10 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2421" y="322" key="#Notifications/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598724042555" />
-    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598725855145">
+    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598731340240">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598725855145" />
+    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598731340240" />
     <state x="2020" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1598723974972">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -106,17 +115,17 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2233" y="153" width="1213" height="743" key="SettingsEditor/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598724109111" />
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598726358293">
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598731345904">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598726358293" />
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598731345904" />
     <state x="2513" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598723974965">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2513" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598723974965" />
-    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1598731199464">
+    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1598731389534">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598731199464" />
+    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598731389534" />
   </component>
 </project>
