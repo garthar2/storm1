@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35039db-eb5c-48fd-9ca1-8280549178f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/helpers/substring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/components/message.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/message.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/received-message.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/received-message.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/substring.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/substring.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -59,7 +58,7 @@
       <updated>1598722382767</updated>
       <workItem from="1598722387576" duration="14323000" />
       <workItem from="1598791631197" duration="642000" />
-      <workItem from="1598797794761" duration="1451000" />
+      <workItem from="1598797794761" duration="2545000" />
     </task>
     <task id="LOCAL-00001" summary="29.">
       <created>1598722956300</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598798312008</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="29.">
+      <created>1598799259594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598799259594</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,22 +122,22 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2421" y="322" key="#Notifications/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598724042555" />
-    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598798311683">
+    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598799259523">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598798311683" />
+    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598799259523" />
     <state x="2020" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1598723974972">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2020" y="100" width="1480" height="850" key="DiffContextDialog/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598723974972" />
-    <state x="2233" y="153" width="1213" height="743" key="SettingsEditor" timestamp="1598724109111">
+    <state x="2233" y="153" width="1213" height="743" key="SettingsEditor" timestamp="1598800019847">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2233" y="153" width="1213" height="743" key="SettingsEditor/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598724109111" />
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598737149570">
+    <state x="2233" y="153" width="1213" height="743" key="SettingsEditor/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598800019847" />
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598799275628">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598737149570" />
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598799275628" />
     <state x="2513" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598723974965">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
