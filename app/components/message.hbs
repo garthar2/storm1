@@ -1,6 +1,6 @@
 <Avatar
-        @title={{@avatarTitle}}
-        @initial={{@avatarInitial}}
+        @title="{{@username}}'s avatar"
+        @initial={{substring @username 0 1}}
         @isActive={{@userIsActive}}
         class="{{if @isCurrentUser "current-user"}}"
 />
