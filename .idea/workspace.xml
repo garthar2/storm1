@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35039db-eb5c-48fd-9ca1-8280549178f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/messages.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/new-message-input.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/messages.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/messages.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/new-message-input.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/new-message-input.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,9 @@
       <workItem from="1598800971009" duration="1280000" />
       <workItem from="1598862429411" duration="2551000" />
       <workItem from="1598873000051" duration="613000" />
-      <workItem from="1598893004505" duration="705000" />
+      <workItem from="1598893004505" duration="3593000" />
+      <workItem from="1598898955311" duration="856000" />
+      <workItem from="1598956905112" duration="3616000" />
     </task>
     <task id="LOCAL-00001" summary="29.">
       <created>1598722956300</created>
@@ -113,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598803525741</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="31.08.20">
+      <created>1598894192430</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598894192430</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="29." />
-    <option name="LAST_COMMIT_MESSAGE" value="29." />
+    <MESSAGE value="31.08.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="31.08.20" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -133,10 +145,10 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2421" y="322" key="#Notifications/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598724042555" />
-    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598803524931">
+    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598894192153">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598803524931" />
+    <state x="2293" y="44" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598894192153" />
     <state x="2020" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1598723974972">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -153,9 +165,9 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2513" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598723974965" />
-    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1598731389534">
+    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1598895979444">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598731389534" />
+    <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598895979444" />
   </component>
 </project>

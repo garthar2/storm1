@@ -1,9 +1,20 @@
 import Component from '@glimmer/component';
-import {tracked} from '@glimmer/tracking';
 import {action} from '@ember/object';
+import {A} from '@ember/array';
 
 export default class MessagesComponent extends Component {
-  messages = [
+  username = 'Zoey';
+
+  @action
+  addMessage(messageText) {
+    this.messages.pushObject({
+      username: this.username,
+      active: true,
+      content: `<p>${messageText}</p>`
+    });
+  }
+
+  messages = A([
     {
       username: 'Tomster',
       active: true,
@@ -47,5 +58,5 @@ export default class MessagesComponent extends Component {
         <p>Let me know when you've nailed down the dates!</p>
       `
     }
-  ];
+  ]);
 }
